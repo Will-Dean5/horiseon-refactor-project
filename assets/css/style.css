@@ -38,6 +38,11 @@ nav a {
     margin-left: 25px;
 }
 
+nav a:hover {
+color: d9dcd6;
+text-decoration: underline;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
